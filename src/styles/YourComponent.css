@@ -1,0 +1,6 @@
+.your-component {
+    background-image: 'url('../assets/backgroun1.jpg')';
+    background-size: cover; /* Adjust the background size as needed */
+    background-repeat: no-repeat; /* Optional: Prevent the background image from repeating */
+    /* Add other background-related styles as necessary */
+  }
